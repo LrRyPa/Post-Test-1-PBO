@@ -33,7 +33,7 @@ Rincian Harga:
 * Standard = Rp 250.000
 
 Lalu program akan melakukan perhitungan aritmatika perkalian: <br>
-**Tipe Kamar** (Deluxe/Suite/Standard) * **Jumlah malam (Lama Menginap)**
+**Harga Tipe Kamar** (Deluxe/Suite/Standard) * **Jumlah malam (Lama Menginap)**
 
 ### 2. Lihat Reservasi
 <img width="385" height="664" alt="image" src="https://github.com/user-attachments/assets/6d2e58f7-6313-4d6d-9ce1-3f4434cf3ffa" />
