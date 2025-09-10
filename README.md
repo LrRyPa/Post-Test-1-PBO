@@ -6,7 +6,7 @@ NIM : 2409116026
 Kelas : A
 
 ## Deskripsi Program
-Program ini merupakan aplikasi sederhana yang dirancang untuk mengelola informasi reservasi hotel. Program ini bertujuan membantu staf hotel dalam mengelola reservasi dengan cepat dan akurat, seperti penambahan (Create), penampilan (Read), pembaruan (Update), dan penghapusan (Delete) data reservasi. Selain itu, program ini juga memanfaatkan struktur data ArrayList untuk menyimpan dan memanipulasi data seperti Id, Nama Tamu, Tipe Kamar, Jumlah Malam, dan Tarif Biaya
+Program ini merupakan aplikasi sederhana yang dirancang untuk mengelola informasi reservasi hotel. Program ini bertujuan membantu staf hotel dalam mengelola reservasi dengan cepat dan akurat, seperti penambahan (Create), penampilan (Read), pembaruan (Update), dan penghapusan (Delete) data reservasi. Selain itu, program ini juga memanfaatkan struktur data ArrayList untuk menyimpan dan memanipulasi data seperti Id, Nama Tamu, Tipe Kamar, Jumlah Malam, dan Tarif Biaya.
 
 ## Alur Program
 ### Menu Utama
