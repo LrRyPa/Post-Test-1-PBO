@@ -6,7 +6,7 @@ NIM : 2409116026
 Kelas : A
 
 ## Deskripsi Program
-Program ini merupakan aplikasi sederhana yang dirancang untuk mengelola informasi reservasi hotel. Program ini bertujuan membantu staf hotel dalam mengelola reservasi dengan cepat dan akurat, seperti penambahan (Create), penampilan (Read), pembaruan (Update), dan penghapusan (Delete) data reservasi. Selain itu, program ini juga memanfaatkan struktur data ArrayList untuk menyimpan dan memanipulasi data seperti Id, Nama Tamu, Tipe Kamar, Jumlah Malam, dan Tarif Biaya.
+Program ini merupakan aplikasi sederhana yang dirancang untuk mengelola informasi reservasi hotel. Program ini bertujuan membantu staf hotel dalam mengelola reservasi dengan cepat dan akurat, seperti penambahan (Create), penampilan (Read), pembaruan (Update), dan penghapusan (Delete) data reservasi. Selain itu, program ini juga memanfaatkan struktur data ArrayList untuk menyimpan dan memanipulasi data seperti Id, Nama Tamu, Tipe Kamar, Jumlah Malam, dan Total Tarif.
 
 ## Alur Program
 ### Menu Utama
@@ -25,7 +25,7 @@ Setelah mengetahui opsi yang diinginkan, pengguna dapat menginputkan opsi yang d
 ### 1. Tambah Reservasi
 <img width="419" height="181" alt="image" src="https://github.com/user-attachments/assets/76e89ced-5262-46ce-b348-3e74518635cb" />
 
-Pengguna akan diminta untuk menginputkan data reservasi yang akan ditambahkan, seperti Nama Tamu, Tipe Kamar dan  Lama Menginap (jumlah malam). <br>Setelah itu, program akan melakukan perhitungan tarif biaya berdasarkan tipe kamar dan jumlah malam yang diinputkan pengguna. 
+Pengguna akan diminta untuk menginputkan data reservasi yang akan ditambahkan, seperti Nama Tamu, Tipe Kamar dan  Lama Menginap (jumlah malam). <br>Setelah itu, program akan melakukan perhitungan total tarif berdasarkan tipe kamar dan jumlah malam yang diinputkan pengguna. 
 Pembagian Tipe kamar dibagi menjadi 3 tipe dengan harga yang berbeda-beda.  
 Rincian Harga:
 * Deluxe   = Rp 400.000
